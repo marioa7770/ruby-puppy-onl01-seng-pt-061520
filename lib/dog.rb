@@ -26,4 +26,6 @@ end
 
   def name
     @name
-  end# Add your code here
+  end
+  
+end
